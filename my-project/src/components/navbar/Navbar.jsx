@@ -6,8 +6,8 @@ const [nav, setNav] = useState(false)
 const toggleMenuIcon = () => setNav(!nav)
 
 return (
-    <div className='w-screen h-[80px] z-50 bg-zinc-200 fixed drop-shadow-lg'>
-        <div className='px-2 flex justify-between items-center w-full h-full'>
+    <div className='w-screen h-[80px] z-50 bg-zinc-100 fixed drop-shadow-lg'>
+        <div className='px-8 flex justify-between items-center w-full h-full'>
             <nav className='flex items-center '>
                 <h1 className='text-3xl font-bold mr-4 sm:text-4xl logo'><span>e</span>CLOUD </h1>
                 <ul className='hidden md:flex'>
@@ -19,7 +19,7 @@ return (
                 </ul>
             </nav>
             <div className='hidden md:flex pr-4'>
-                <button className='border-none font-bold bg-transparent text-black mr-4'>Sign In</button>
+                <button className='border-none px-8 font-bold bg-transparent text-black mr-4'>Sign In</button>
                 <button className='px-8 py-3'>Sign Up</button>
             </div>
             <div className='md:hidden' onClick={toggleMenuIcon}>

@@ -8,9 +8,11 @@ const Info = () => {
         <div className='max-w-[1240px] mx-auto px-2'>
         <h2 className='text-5xl text-gray-500 font-normal text-center cloud-header'>Your dedicated cloud, <span>your way</span></h2>
         <p className='text-2xl py-8 text-gray-500 text-center'>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veritatis,
-            ab. Officia sunt nulla aspernatur culpa, eaque tenetur excepturi
-            nostrum tempore.
+            eCloud® Private platform allows you to tailor 
+            your cloud solution to meet your exact needs. Dedicated 
+            compute resource guarantees performance, and the choice 
+            of storage options makes it easy to configure your bespoke 
+            private cloud solution.
         </p>
 
         <div className='grid sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4'>
@@ -21,9 +23,9 @@ const Info = () => {
                 <div>
                     <h3 className='font-bold text-lg'>Cloud management</h3>
                     <p className='text-lg pt-2 pb-4'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Asperiores maxime deserunt voluptatibus consequatur similique
-                    voluptates!
+                    UKFast’s eCloud® Private platform allows you to tailor 
+                    your cloud solution to meet your exact needs. Dedicated 
+                    compute resource guarantees performance.
                     </p>
                 </div>
                 </div>
@@ -100,9 +102,9 @@ const Info = () => {
                 <div>
                     <h3 className='font-bold text-lg'>Exchange server hosting</h3>
                     <p className='text-lg pt-2 pb-4'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Asperiores maxime deserunt voluptatibus consequatur similique
-                    voluptates!
+                    We offer a range of dedicated Microsoft Exchange servers, 
+                    which are available on a number of different plans and servers 
+                    to match your business needs.
                     </p>
                 </div>
                 </div>
@@ -111,11 +113,11 @@ const Info = () => {
                     <CheckIcon className='w-7 mr-4 text-green-600' />
                 </div>
                 <div>
-                    <h3 className='font-bold text-lg'>Exchange server hosting</h3>
+                    <h3 className='font-bold text-lg'>Encryption Solutions</h3>
                     <p className='text-lg pt-2 pb-4'>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Asperiores maxime deserunt voluptatibus consequatur similique
-                    voluptates!
+                    Cluster encryption uses HyTrust Data Control, encryption software 
+                    originally built for the department of defence, designed to military 
+                    standards.
                     </p>
                 </div>
                 </div>
