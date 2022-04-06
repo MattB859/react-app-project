@@ -12,3 +12,10 @@
     hover:bg-transparent hover:text-indigo-600 rounded-md
   }
 }
+
+.hero-img{
+  background: url('./components/hero/images/cyber-bg.png') center no-repeat;
+  background-size: contain;
+  height: 400px;
+  width: 100%;
+}
