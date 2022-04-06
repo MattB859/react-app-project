@@ -16,6 +16,13 @@
 .hero-img{
   background: url('./components/hero/images/cyber-bg.png') center no-repeat;
   background-size: contain;
-  height: 400px;
+  height: 800px;
+  width: 100%;
+}
+
+.support{
+  background: url('./components/hero/images/support.jpg') center no-repeat;
+  background-size: cover;
+  height: 100%;
   width: 100%;
 }
