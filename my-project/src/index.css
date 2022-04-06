@@ -2,14 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100;0,200;0,400;0,500;0,600;0,700;1,100;1,300;1,400;1,500;1,700&display=swap');
+
 @layer base {
   li {
     @apply p-4 font-bold
   }
 
   button {
-    @apply text-white border bg-indigo-700 border-indigo-700
-    hover:bg-transparent hover:text-indigo-600 rounded-md
+    @apply text-slate-100 border-indigo-700 bg-indigo-700
+    hover:bg-white hover:text-indigo-600 rounded-md
   }
 }
 
@@ -28,4 +30,15 @@
 .support{
   background: url('./components/hero/images/support3.jpg')  no-repeat;
   background-size: cover;
+}
+
+.logo{
+  font-family: 'Anybody', cursive;
+  font-weight: 400;
+}
+
+.logo span{
+  font-family: 'Anybody', cursive;
+  font-weight: 700;
+  color: rgb(46, 43, 226);
 }
