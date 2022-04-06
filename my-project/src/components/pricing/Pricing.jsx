@@ -26,11 +26,11 @@ const Pricing = () => {
             </div>
             <p className='text-2xl py-8 text-slate-500'>Standard pricing</p>
             <div className='text-2xl'>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />1 GB RAM</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />1 vCPU</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />32 cores & 2TB SSD</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />30 day rolling backups</p>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Quick processing</p>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Ideal for smaller workloads</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Lorem, ipsum dolor.</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Single site</p>
                 <button className='w-full py-4 my-4'>Get Started</button>
             </div>
           </div>
@@ -41,11 +41,11 @@ const Pricing = () => {
             </div>
             <p className='text-2xl py-8 text-slate-500'>Premium pricing</p>
             <div className='text-2xl'>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />4 GB RAM</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Balanced B1.2x4</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />108 cores & 10TB SSD</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Dual site active-passive DR</p>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Larger data volumes</p>
                 <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Ideal for essential production</p>
-                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Lorem, ipsum dolor.</p>
+                <p className='flex py-4'><CheckIcon className='w-8 mr-5 text-green-600'  />Dual sites.</p>
                 <button className='w-full py-4 my-4'>Get Started</button>
             </div>
           </div>
