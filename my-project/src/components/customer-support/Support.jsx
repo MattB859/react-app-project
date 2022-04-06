@@ -14,7 +14,11 @@ const Support = () => {
             <div className='px-4 py-12'>
                 <h2 className='text-3xl pt-8 text-slate-300 uppercase text-center'>Support</h2>
                 <h3 className='text-5xl font-bold py-6 text-center'>Finding the right team</h3>
-                <p className='py-4 text-3xl text-slate-300'>Lorem ipsum dolor sit amet consectetur adipisicing elit. In repudiandae veritatis ratione error tenetur, voluptates architecto possimus ad! Omnis minima ea quidem quisquam unde beatae, minus illo et cum vel?</p>
+                <p className='py-4 text-3xl text-slate-300'>Meet the team at Express  
+                we delivery 24/7 customer support
+                itatis ratione error tenetur, voluptates architecto pos
+                simus ad! Omnis minima ea quidem quisquam unde beatae, min
+                us illo et cum vel? cloud-img2 cloud-img2cloud-img2cloud-img2cloud-img2cloud-img2cloud-img2</p>
             </div>
 
             <div className='grid grid-cols-1 lg:grid-cols-3 relative gap-x-8 gap-y-16 px-4 pt-12 sm:pt-20 text-black'>

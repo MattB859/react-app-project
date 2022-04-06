@@ -13,16 +13,19 @@
   }
 }
 
-.hero-img{
+/*.hero-img{
   background: url('./components/hero/images/cyber-bg.png') center no-repeat;
   background-size: contain;
   height: 800px;
   width: 100%;
+}*/
+
+.bg-hero{
+  background: url('./components/hero/images/cloud-img3.jpg') no-repeat;
+  background-size: cover;
 }
 
 .support{
-  background: url('./components/hero/images/support.jpg') center no-repeat;
+  background: url('./components/hero/images/support3.jpg')  no-repeat;
   background-size: cover;
-  height: 100%;
-  width: 100%;
 }
