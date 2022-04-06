@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  li {
+    @apply p-4 font-bold
+  }
+
+  button {
+    @apply text-white border bg-indigo-700 border-indigo-700
+    hover:bg-transparent hover:text-indigo-600 rounded-md
+  }
+}
