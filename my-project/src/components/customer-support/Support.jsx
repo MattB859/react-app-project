@@ -12,8 +12,8 @@ const Support = () => {
       
       <div className='max-w-[1240px] mx-auto text-white relative'>
             <div className='px-4 py-12 text-center'>
-                <h2 className='text-3xl pt-8 text-slate-300 uppercase'>Support</h2>
-                <h3 className='text-4xl lg:text-5xl font-bold py-6'>Finding the right team</h3>
+                <h2 className='text-3xl pt-8 text-slate-300 uppercase'>Call Centre Support</h2>
+                <h3 className='text-4xl lg:text-5xl font-bold py-6'>Speaking to the right people</h3>
                 <p className='py-4 text-1xl text-slate-200 lg:text-2xl'>Our specialist experts are qualified in all major platforms and have years of experience giving over 5,000 customers sound, useful advice, with
                     24/7 support 365 days a year, a dedicated account manager and an industry leading NPS score of 86.96 means you will always receive the highest level of service.</p>
             </div>
