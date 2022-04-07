@@ -57,6 +57,13 @@
   font-weight: bold;
 }
 
+.about span{
+  color: rgb(14, 14, 14);
+  font-weight: bold;
+}
+
+
+
 li:hover{
   text-decoration: underline;
   cursor: pointer;
