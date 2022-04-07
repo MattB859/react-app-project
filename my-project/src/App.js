@@ -6,6 +6,8 @@ import Support from './components/customer-support/Support';
 import Info from './components/info/Info';
 import Pricing from './components/pricing/Pricing';
 import Footer from './components/footer/Footer';
+import Partners from './components/partners/Partners';
+
 
 
 function App() {
@@ -16,6 +18,7 @@ function App() {
       <About/>
       <Support/>
       <Info/>
+      <Partners/>
       <Pricing/>
       <Footer/>
     </>

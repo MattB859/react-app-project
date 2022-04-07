@@ -5,8 +5,8 @@ import { CheckIcon } from '@heroicons/react/outline';
 const Info = () => {
   return (
     <div name='platforms' className='w-full my-32'>
-        <div className='max-w-[1240px] mx-auto px-2'>
-        <h2 className='text-5xl text-gray-500 font-normal text-center cloud-header'>Your dedicated cloud, <span>your way</span></h2>
+        <div className='max-w-[1240px] mx-auto px-4'>
+        <h2 className='text-4xl lg:text-5xl text-gray-500 font-normal text-center cloud-header'>Your dedicated cloud, <span>your way</span></h2>
         <p className='text-2xl py-8 text-gray-500 text-center'>
             eCloud® Private platform allows you to tailor 
             your cloud solution to meet your exact needs. Dedicated 

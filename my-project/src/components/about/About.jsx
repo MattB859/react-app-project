@@ -4,9 +4,9 @@ const About = () => {
   return (
     <div name='about' className='w-full my-32'>
         <div className='max-w-[1240px] mx-auto'>
-            <div className='text-center'>
-                <h2 className='text-5xl font-bold'>Trusted by developers across the world</h2>
-                <p className='text-3xl py-6 text-gray-500'>Reduced upfront costs by buying infrastructure and management as a service.
+            <div className='text-center px-4'>
+                <h2 className='text-4xl lg:text-5xl font-bold'>Trusted by developers across the world</h2>
+                <p className='text-2xl lg:text-3xl py-6 text-gray-500'>Reduced upfront costs by buying infrastructure and management as a service.
                 Increased flexibility so you can embrace innovation as it emerges.</p>
             </div>
 

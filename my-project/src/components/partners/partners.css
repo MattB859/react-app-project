@@ -1,0 +1,29 @@
+
+.brand-img1 {
+    background: url('./images/aws.png') no-repeat;
+    background-size: contain;
+    height: 90px;
+    width: 150px;
+    margin: 0 auto;
+}
+.brand-img2{
+    background: url('./images/microsoft.png') no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 150px;
+    margin: 0 auto;
+}
+.brand-img3 {
+    background: url('./images/google.png') no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 150px;
+    margin: 0 auto;
+}
+.brand-img4 {
+    background: url('./images/intel.png') no-repeat;
+    background-size: contain;
+    height: 80px;
+    width: 150px;
+    margin: 0 auto;
+}

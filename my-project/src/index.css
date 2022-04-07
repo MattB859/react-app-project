@@ -6,7 +6,7 @@
 
 @layer base {
   nav li {
-    @apply p-4 font-bold
+    @apply p-4 font-bold hover:text-slate-800 cursor-pointer
   }
 
   button {
@@ -15,16 +15,16 @@
   }
 }
 
-/*.hero-img{
-  background: url('./components/hero/images/cyber-bg.png') center no-repeat;
-  background-size: contain;
-  height: 800px;
-  width: 100%;
-}*/
-
 .bg-hero{
   background: url('./components/hero/images/cloud-img3.jpg') no-repeat;
   background-size: cover;
+}
+
+@media only screen and (max-width: 800px) {
+  .bg-hero{
+      background: url('./components/hero/images/cloud-img3.jpg') right no-repeat;
+      background-size: cover;
+  }
 }
 
 .support{
@@ -47,12 +47,18 @@
   color: white;
 }
 
-a:hover{
-  color: rgb(255, 255, 255);
-  text-decoration: underline;
-}
-
 .cloud-header span{
   color: rgb(14, 14, 14);
   font-weight: bold;
 }
+
+.partners span{
+  color: rgb(14, 14, 14);
+  font-weight: bold;
+}
+
+li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
