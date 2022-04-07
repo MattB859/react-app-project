@@ -14,16 +14,16 @@
     margin: 0 auto;
 }
 .brand-img3 {
-    background: url('./images/google.png') no-repeat;
+    background: url('./images/cloud.png') no-repeat;
     background-size: contain;
     height: 100px;
-    width: 150px;
+    width: 280px;
     margin: 0 auto;
 }
 .brand-img4 {
     background: url('./images/intel.png') no-repeat;
     background-size: contain;
     height: 80px;
-    width: 150px;
+    width: 90px;
     margin: 0 auto;
 }
