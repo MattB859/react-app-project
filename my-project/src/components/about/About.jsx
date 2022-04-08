@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { HiServer } from "react-icons/hi";
+import { BsClouds } from "react-icons/bs";
 import { ImUpload3 } from "react-icons/im";
 import { FaRegHandshake } from "react-icons/fa";
 
@@ -15,25 +15,24 @@ const About = () => {
             </div>
 
             <div className='grid md:grid-cols-3 gap-1 px-2 text-center'>
-                <div className='py-8' >
-                <ImUpload3 className='w-20 h-20 m-auto text-indigo-700 mb-5'/>
-                    <p className='text-6xl font-bold text-gray-800'>100%</p>
-                    <p className='text-gray-800 px-5 lg:px-20 my-5'>100% Network uptime achieve the highest standards of security and total control with a bespoke, fully managed private cloud solution, architected to meet your unique hosting requirements.</p>
-                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Lear more</button>
+                <div className='py-5' >
+                <ImUpload3 className='w-20 h-20 m-auto text-blue-800 mb-5'/>
+                    <p className='text-3xl font-bold text-gray-800'>Network Availability</p>
+                    <p className='text-gray-800 px-5 font-medium lg:px-20 my-3'>100% Network uptime achieve the highest standards of security.</p>
+                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Learn more</button>
                 </div>
-                <div  className='py-8' >
-                <FaRegHandshake className='w-20 h-20 m-auto text-indigo-700 mb-5'/>
-                    <p className='text-6xl font-bold text-gray-800'>24/7</p>
-                    <p className='text-gray-800 px-5 lg:px-20 my-5'>Expert advice Our specialist experts are qualified in all major platforms and have years of experience giving over 5,000 customers sound, useful advice, with 24/7 support 365 days a year.</p>
-                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Lear more</button>
+                <div  className='py-5' >
+                <FaRegHandshake className='w-20 h-20 m-auto text-blue-800 mb-5'/>
+                    <p className='text-3xl font-bold text-gray-800'>24/7 Call Support</p>
+                    <p className='text-gray-800 px-5 font-medium lg:px-20 my-3'>Our specialist experts are qualified in all major platforms.</p>
+                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Learn more</button>
                 </div>
-                <div className='py-8' >
-                 <HiServer className='w-20 h-20 m-auto text-indigo-700 mb-5'/>
-                    <p className='text-6xl font-bold text-gray-800'>100GB</p>
-                    <p className='text-gray-800 px-5 lg:px-20 my-5'>Multi connectivity Harness the power of multiple 
-                    public cloud providers. Take advantage of each platform's unique offerings, migrating 
-                    each workload to the perfect platform.</p>
-                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Lear more</button>
+                <div className='py-5' >
+                 <BsClouds className='w-20 h-20 m-auto text-blue-800 mb-5'/>
+                    <p className='text-3xl font-bold text-gray-800'>Private Cloud</p>
+                    <p className='text-gray-800 font-medium px-5 lg:px-20 my-3'>Harness the power of multiple 
+                    private cloud providers.</p>
+                    <button className='font-bold py-3 px-6 lg:w-[40%] sm:w-[100%] my-4'>Learn more</button>
                 </div>
             </div>
         </div>
