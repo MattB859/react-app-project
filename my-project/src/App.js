@@ -7,6 +7,7 @@ import Info from './components/info/Info';
 import Pricing from './components/pricing/Pricing';
 import Footer from './components/footer/Footer';
 import Partners from './components/partners/Partners';
+import ContactForm from './components/contact/ContactForm';
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <Info/>
       <Partners/>
       <Pricing/>
+      <ContactForm/>
       <Footer/>
     </>
   );

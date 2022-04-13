@@ -12,7 +12,7 @@ return (
     <div className='w-screen h-[80px] z-50 bg-zinc-100 fixed drop-shadow-lg'>
         <div className='px-2 flex justify-between items-center w-full h-full'>
             <nav className='flex items-center '>
-                <h1 className='text-3xl font-bold sm:text-4xl logo'><span>e</span>CLOUD </h1><AiOutlineCloudUpload className='lg:h-11 lg:w-11 w-9 h-9 mr-5' />
+                <h1 className='text-3xl font-bold sm:text-4xl logo'><span>e</span>CLOUD </h1>
                 <ul className='hidden md:flex'>
                     <li><Link to="home" smooth={true} duration={500}>Home</Link></li>
                     <li><Link to="about" smooth={true} offset={-200} duration={500}>About</Link></li>

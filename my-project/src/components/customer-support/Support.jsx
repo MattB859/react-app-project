@@ -10,7 +10,7 @@ const Support = () => {
             <div className='w-full h-full object-cover mix-blend-overlay support'></div>
         </div>
       
-      <div className='max-w-[1240px] mx-auto text-white relative'>
+        <div className='max-w-[1240px] mx-auto text-white relative'>
             <div className='px-4 py-12 text-center'>
                 <h2 className='text-3xl pt-8 text-slate-300 uppercase'>Call Centre Support</h2>
                 <h3 className='text-4xl lg:text-5xl font-bold py-6'>Speaking to the right people</h3>
