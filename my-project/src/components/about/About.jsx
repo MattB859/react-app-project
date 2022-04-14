@@ -1,7 +1,5 @@
 import React from 'react'
-import { BsClouds } from "react-icons/bs";
-import { ImUpload3 } from "react-icons/im";
-import { FaRegHandshake } from "react-icons/fa";
+
 
 const About = () => {
   return (
