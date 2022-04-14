@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-app-project/static/css/main.a489fc15.css",
+    "main.js": "/react-app-project/static/js/main.a5076454.js",
+    "static/media/cloud-img3.jpg": "/react-app-project/static/media/cloud-img3.47c29f5ab1c24ccaee5b.jpg",
+    "static/media/support3.jpg": "/react-app-project/static/media/support3.88f2f00503fc811476e3.jpg",
+    "static/media/support2.jpg": "/react-app-project/static/media/support2.dd0d90a378b4e8813f9b.jpg",
+    "static/media/img-4.png": "/react-app-project/static/media/img-4.d2dcaa400661f9c9afe0.png",
+    "static/media/img-8.png": "/react-app-project/static/media/img-8.92eee498bd02e98b5300.png",
+    "static/media/network.png": "/react-app-project/static/media/network.062e1932434f955c7f6a.png",
+    "static/media/intel.png": "/react-app-project/static/media/intel.3af809e245cfd1813618.png",
+    "static/media/aws.png": "/react-app-project/static/media/aws.1fa090f73350593f1959.png",
+    "static/media/microsoft.png": "/react-app-project/static/media/microsoft.d339022adbd06c59e981.png",
+    "static/media/cloud.png": "/react-app-project/static/media/cloud.b94922b46d793124dc90.png",
+    "index.html": "/react-app-project/index.html",
+    "main.a489fc15.css.map": "/react-app-project/static/css/main.a489fc15.css.map",
+    "main.a5076454.js.map": "/react-app-project/static/js/main.a5076454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a489fc15.css",
+    "static/js/main.a5076454.js"
+  ]
+}
